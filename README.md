@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm [Syed_Anfas_Ahmed]
+# 👋 Hello there! I'm Syed Anfas Ahmed
 
 Welcome to my GitHub profile! I'm a passionate data scientist with a knack for transforming raw data into meaningful insights. My journey in the tech world has led me to explore various facets of data science, predictive analysis, and AI. Here’s a bit about me:
 
