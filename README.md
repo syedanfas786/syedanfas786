@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist with a knack for t
 I'm always eager to collaborate on projects, discuss ideas, or just chat about tech! You can reach me at:
 
 - [LinkedIn](linkedin.com/in/syed-anfas-ahmed-0428131b3)
-- 
+
 ## 📈 Current Projects
 
 - **AI Mental Health Companion**: Developing an intelligent assistant to provide mental health support.
